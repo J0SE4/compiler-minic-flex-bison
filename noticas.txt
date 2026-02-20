@@ -1,0 +1,5 @@
+FALTA:
+
+- manejo de errores en el léxico (sintaxis.y) 
+- empezar con el semántico (crear tabla símbolos y hacer las modificaciones necesarias) Ejemplo:
+    - Declarar una variable ya declarada no debe permitirse por el semántico

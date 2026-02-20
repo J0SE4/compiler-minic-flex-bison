@@ -1,0 +1,7 @@
+sintaxis
+lex.yy.c
+sintaxis.tab.c
+sintaxis.tab.h
+sintaxis.output
+*.o
+*.out
